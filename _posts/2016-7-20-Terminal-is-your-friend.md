@@ -120,8 +120,8 @@ There is a [link](http://osxdaily.com/2013/02/05/improve-terminal-appearance-mac
 ![](/assets/Screen Shot 2016-07-21 at 1.08.03 PM.png)
 
 
-#### Change  `_bash.proflie`  #
-**Y**ou can simply find and echo this file using what have been mentioned above. It is a hidden file in the home directory, if it does not exist, you can just create one also using what have been mentioned above. There are so many settings and you can explore yourself, following is an example for you to better understand how to manipulate with `_bash.profile`
+#### Change  `.bash_proflie`  #
+**Y**ou can simply find and echo this file using what have been mentioned above. It is a hidden file in the home directory, if it does not exist, you can just create one also using what have been mentioned above. There are so many settings and you can explore yourself, following is an example for you to better understand how to manipulate with `.bash_proflie`
 
 **G**o to your terminal, find your bash file, open it with nano.
 
