@@ -95,7 +95,7 @@ For example: `rm -rf directory_name`
 
 For example: `echo 'text' >> hi.txt `
 
-You can try all these commmands in your terminal, it's fun!!!
+You can try all these commands in your terminal, it's fun!!!
 
 ### Useful hotkeys #
 
