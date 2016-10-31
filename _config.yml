@@ -9,12 +9,12 @@
 title: Tom Yang's Creative Factory
 email: xy2286@columbia.edu
 description: > #
-          A New Ruby Developer!
+          Full-stack Web Developer!
           Just a freshman in the field, One day I will become someone!
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://TomYang1993.github.io." # the base hostname & protocol for your site
+url: "http://TomYang1993.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  TomYang1993
 
@@ -22,3 +22,6 @@ github_username:  TomYang1993
 markdown: kramdown
 
 #Include gems
+
+#img path
+img_path: '/assets/img'

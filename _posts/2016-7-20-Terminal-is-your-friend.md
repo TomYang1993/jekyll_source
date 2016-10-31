@@ -117,7 +117,7 @@ You can try all these commands in your terminal, it's fun!!!
 **G**o to your terminal and set your preference!!
 There is a [link](http://osxdaily.com/2013/02/05/improve-terminal-appearance-mac-os-x/) for your reference. There are more tutorials which are easy to get.
 
-![](/assets/Screen Shot 2016-07-21 at 1.08.03 PM.png)
+![]({{site.img_path}}/0720terminal_is_your_friend/1.png)
 
 
 #### Change  `.bash_proflie`  #
@@ -125,14 +125,14 @@ There is a [link](http://osxdaily.com/2013/02/05/improve-terminal-appearance-mac
 
 **G**o to your terminal, find your bash file, open it with nano.
 
-![](/assets/Screen Shot 2016-07-21 at 1.43.03 PM.png)
+![]({{site.img_path}}/0720terminal_is_your_friend/2.png)
 
 **A**dd a line into the file. `export PS1=" [\u] \w💩 $ "`, it will show the difference.
 
-![](/assets/Screen Shot 2016-07-21 at 1.57.10 PM.png)
+![]({{site.img_path}}/0720terminal_is_your_friend/3.png)
 
 **W**e Got it!!!
 
-![](/assets/Screen Shot 2016-07-21 at 1.57.30 PM.png)
+![]({{site.img_path}}/0720terminal_is_your_friend/4.png)
 
 You may be wondering how can I put a poop inside, check the [link](http://osxdaily.com/2013/04/08/add-emoji-command-line-bash-prompt/)!!!

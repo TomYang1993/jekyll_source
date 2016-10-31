@@ -62,26 +62,26 @@ Check my "Terminal is your friend !" post for the terminal commands.
 
 Firstly, we create a file inside our test directory.
 
-![](/assets/Screen Shot 2016-07-28 at 1.12.00 PM.png)
+![]({{site.img_path}}/0725Git_and_Github/1.png)
 
 Then, we `git init` in the directory, and we get an empty repository. `git add --all` will add these changes to the empty repository because we have a `test.rb` now. `git commit -m "first try"` will refresh git repository and change permanently.
 
-![](/assets/Screen Shot 2016-07-28 at 1.13.00 PM.png)
+![]({{site.img_path}}/0725Git_and_Github/2.png)
 
 Now we have taken care of the local part. Let's go online !
 
 Firstly, we will create a new repository on the github page.
 
-![](/assets/Screen Shot 2016-07-28 at 1.14.09 PM.png)
+![]({{site.img_path}}/0725Git_and_Github/3.png)
 
-![](/assets/Screen Shot 2016-07-28 at 1.14.26 PM.png)
+![]({{site.img_path}}/0725Git_and_Github/4.png)
 
 Then we get the page that set up the repository. `git remote add origin` means that Github will give you a path to connect your local directory or project to the online hosting service, then from now on your local directory will know where to find the online hosting service. `git push -u origin master` means you can push your local repository online !
 
-![](/assets/Screen Shot 2016-07-28 at 1.14.38 PM.png)
+![]({{site.img_path}}/0725Git_and_Github/5.png)
 
-![](/assets/Screen Shot 2016-07-28 at 1.16.59 PM.png)
+![]({{site.img_path}}/0725Git_and_Github/6.png)
 
 Refresh ! And you can see your whole new repository !
 
-![](/assets/Screen Shot 2016-07-28 at 1.17.16 PM.png)
+![]({{site.img_path}}/0725Git_and_Github/7.png)

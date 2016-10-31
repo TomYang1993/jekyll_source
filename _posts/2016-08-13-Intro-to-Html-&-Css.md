@@ -21,7 +21,7 @@ Try these lines below:
 
 look what happened to your browser!
 
-![](/assets/Screen Shot 2016-08-13 at 2.54.48 PM.png)
+![]({{site.img_path}}/0813Intro_Html/1.png)
 
 It is the begin of the magic ! I won't spend time on the grammar or vocabulary. So I will show you part of my code and it is easy to understand if you scan through the tutorial in [w3schools](http://www.w3schools.com/html/default.asp).
 
@@ -154,13 +154,13 @@ In conclusion, Css is like makeups, so I will show you the power of it.
 
 Below is the html without the css.
 
-![](/assets/Screen Shot 2016-08-13 at 3.27.42 PM.png)
+![]({{site.img_path}}/0813Intro_Html/2.png)
 
 Here is the html with makeups!
 
-![](/assets/Screen Shot 2016-08-13 at 3.29.17 PM.png)
+![]({{site.img_path}}/0813Intro_Html/3.png)
 
-![](/assets/Screen Shot 2016-08-13 at 3.29.39 PM.png)
+![]({{site.img_path}}/0813Intro_Html/4.png)
 
 How does this magic work? Still a bunch of codes.
 
@@ -290,6 +290,6 @@ Again, programmers are smart(lazy)! There are many libraries, softwares availabl
 For example, [**Bootstrap**](http://getbootstrap.com/)!
 It's just like an online store for the styles you want to apply for your website or project.
 
-![](/assets/Screen Shot 2016-08-13 at 3.43.37 PM.png)
+![]({{site.img_path}}/0813Intro_Html/5.png)
 
 I will not dig in, it's your turn now!
