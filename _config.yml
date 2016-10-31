@@ -20,3 +20,5 @@ github_username:  TomYang1993
 
 # Build settings
 markdown: kramdown
+
+#Include gems
