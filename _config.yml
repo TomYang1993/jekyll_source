@@ -7,6 +7,7 @@
 
 # Site settings
 title: Tom Yang's Creative Factory
+brand: TY Creative Factory
 email: xy2286@columbia.edu
 description: > #
           Full-stack Web Developer!
@@ -20,6 +21,10 @@ github_username:  TomYang1993
 
 # Build settings
 markdown: kramdown
+
+#set liquid warnings
+liquid:
+  error_mode: warn
 
 #Include gems
 
