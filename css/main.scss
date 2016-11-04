@@ -45,10 +45,42 @@ $on-laptop:        800px;
 
 @media only screen and (min-width: 319px) {
 
-nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
-    height:64px;
-    line-height: 64px;
+  .mainpage_title {
+      font-size:16px;
+  }
+
 }
+
+@media only screen and (min-width: 479px) {
+
+  .mainpage_title {
+      font-size:26px;
+  }
+
+}
+
+@media only screen and (min-width: 767px) {
+
+  .mainpage_title {
+      font-size:30px;
+  }
+
+}
+
+@media only screen and (min-width: 1023px) {
+
+  .mainpage_title {
+      font-size:38px;
+  }
+
+}
+
+@media only screen and (min-width: 319px) {
+
+  nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
+      height:64px;
+      line-height: 64px;
+  }
 
 }
 

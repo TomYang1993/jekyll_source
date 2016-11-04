@@ -1,4 +1,4 @@
-<footer class="page-footer">
+<footer class="page-footer blue darken-3">
           <div class="container">
             <div class="row">
               <div class="col l6 s12">
@@ -8,18 +8,25 @@
               <div class="col l4 offset-l2 s12">
                 <h5 class="white-text">Links</h5>
                 <ul>
-                  <li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Link 2</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Link 3</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Link 4</a></li>
+                  <li><a class="grey-text text-lighten-3" href="#!">Email xy2286@columbia.edu</a></li>
+
                 </ul>
               </div>
             </div>
           </div>
           <div class="footer-copyright">
-            <div class="container">
-            © 2016 Copyright
-            <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
+            <div class="row">
+              <div class="col s2">
+                © 2016 Copyright
+              </div>
+              <div class="valign-wrapper">
+                <div class="col s2 offset-s6 valign">
+                  <a class="grey-text text-lighten-4 hoverable" href="https://github.com/TomYang1993"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+                </div>
+                <div class="col s2 valign">
+                  <a class="grey-text text-lighten-4 hoverable" href="https://www.linkedin.com/in/xiaoyeyang"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a>
+                </div>
+              </div>
             </div>
           </div>
 
@@ -28,11 +35,12 @@
 
 </footer>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script src="https://use.fontawesome.com/f4eb75c3a7.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/js/materialize.min.js"></script>
 <script type="text/javascript">
   $( document ).ready(function(){
-    $(".button-collapse").sideNav();
+    $(".button-collapse").sideNav({
+      menuWidth:200
+    });
     $('.carousel').carousel();
     $('.carousel.carousel-slider').carousel({full_width: true});
     $('.slider').slider({height:460,interval:10000});
