@@ -44,22 +44,32 @@ $on-laptop:        800px;
 // }
 
 @media only screen and (min-width: 319px) {
-
+  .career_title {
+      font-size:18px;
+  }
   .mainpage_title {
-      font-size:16px;
+      font-size:20px;
   }
 
 }
 
 @media only screen and (min-width: 479px) {
-
+  .career_title {
+      font-size:24px;
+  }
   .mainpage_title {
       font-size:26px;
+  }
+  #progress_bar {
+    display: block;
   }
 
 }
 
 @media only screen and (min-width: 767px) {
+  .career_title {
+      font-size:28px;
+  }
 
   .mainpage_title {
       font-size:30px;
@@ -68,6 +78,9 @@ $on-laptop:        800px;
 }
 
 @media only screen and (min-width: 1023px) {
+  .career_title {
+      font-size:30px;
+  }
 
   .mainpage_title {
       font-size:38px;
@@ -88,5 +101,6 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "timeline"
 ;
