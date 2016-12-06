@@ -29,7 +29,7 @@ liquid:
 #Include gems
 
 #img path
-img_path: '/assets/img'
+img_path: '/assets/image'
 
 #sections data
 sections:

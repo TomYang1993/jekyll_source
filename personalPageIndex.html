@@ -1,0 +1,15 @@
+---
+layout: default
+
+---
+
+
+
+
+
+  {% for section in site.sections %}
+    {% assign loopindex = forloop.index | modulo: 2 %}
+  <section id="{{section.id}}"  class="{% if loopindex != 1 %} grey lighten-4 {% endif %}" style="margin-top:0px;padding-top:33px;margin-bottom:30px;">
+    {% include sections/{{section.tpl}} %}
+  </section>
+{% endfor %}
