@@ -34,7 +34,7 @@ li a {
 }
 
 a {
-  color: #72c02c;
+  color: #FF7F00;
   text-decoration: none;
 }
 
@@ -48,13 +48,13 @@ a:focus {
   text-decoration: none;
 }
 a:hover {
-  color: #72c02c;
+  color: #FF7F00;
   text-decoration: underline;
 }
 
 ::selection {
   color: #fff;
-  background: #72c02c;
+  background: #FF7F00;
 }
 
 .navbar-fixed-bottom .navbar-collapse,
@@ -108,7 +108,7 @@ a:hover {
 }
 
 .one-page-header .navbar-brand span {
-  color: #72c02c !important;
+  color: #FF7F00 !important;
 }
 
 @media (max-width: 768px) {
@@ -156,7 +156,7 @@ a:hover {
 
 .one-page-header .navbar-nav > li > a {
   color: #eee;
-  font-size: 12.5px;
+  font-size: 18px;
   text-transform: uppercase;
   padding: 17px 15px 13px;
 }
@@ -197,7 +197,7 @@ a:hover {
 .one-page-header.top-nav-collapse .dropdown-menu > .active > a:focus {
   z-index: 1;
   background: none;
-  color: #72c02c !important;
+  color: #FF7F00 !important;
 }
 
 /*Responsive Navbar*/
@@ -595,7 +595,7 @@ a:hover {
 ------------------------------------*/
 /*About Section*/
 .about-section {
-  padding-top: 40px;
+  padding-top: 0px;
   padding-bottom: 0;
 }
 
@@ -604,7 +604,7 @@ a:hover {
 }
 
 .about-section .about-image {
-  padding-top: 100px;
+  padding-top: 50px;
 }
 
 /*Icon Lists*/
