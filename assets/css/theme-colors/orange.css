@@ -79,7 +79,9 @@ i.icon-bg-u {
 }
 
 .service-box-v1 li {
-    border-top: 1px dotted #e67e22;
+  /*border-top: dotted 1px #72c02c;*/
+  border-left: solid 2px #e67e22;
+  border-right: solid 2px #e67e22;
 }
 
 .service-box-v1 li:hover {

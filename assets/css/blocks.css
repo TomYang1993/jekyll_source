@@ -701,7 +701,8 @@
   margin: 8px 0;
   font-size: 15px;
   padding-top: 8px;
-  border-top: dotted 1px #72c02c;
+  /*border-top: dotted 1px #72c02c;*/
+  
 }
 
 .service-box-v1 li:hover {
@@ -5303,7 +5304,7 @@
 }
 
 .clients-section img {
-  width: 100px;
+  width: auto;
   height: 100px;
 }
 

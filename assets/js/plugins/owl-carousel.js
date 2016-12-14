@@ -55,7 +55,7 @@ var OwlCarousel = function () {
                 itemsTablet : [600,2],
                 itemsMobile : [479,1]
             });
-			 
+
             //Owl Twitter v1
             jQuery(".owl-twitter-v1").owlCarousel({
                 singleItem : true,
@@ -86,13 +86,13 @@ var OwlCarousel = function () {
             jQuery(".owl-clients-v2").owlCarousel({
                 items : 5,
                 autoPlay : 10000,
-                itemsDesktop : [1000,5],
-                itemsDesktopSmall : [900,4],
-                itemsTablet : [600,3],
-                itemsMobile : [479,1]
+                itemsDesktop : [1000,4],
+                itemsDesktopSmall : [900,2],
+                itemsTablet : [600,2],
+                itemsMobile : [479,2]
             });
 		}
 
     };
-    
+
 }();
