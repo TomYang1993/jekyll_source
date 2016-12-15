@@ -181,7 +181,7 @@
                     });
 
                     if (itemsNext.length === 0) {
-                        me.text('NO MORE WORKS');
+                        me.text('NO MORE');
                         me.addClass('cbp-l-loadMore-button-stop');
                     }
 
